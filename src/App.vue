@@ -62,7 +62,7 @@ nowTimes();
     <div class="wrap">
       <header>
         <div class="weather">
-          <img src="./assets/img/brand/qing.png" />
+          <img src="./assets/img/qing.png" />
           <span class="tem">{{ weatcherData.tem }}°C</span>
           <span class="wea">{{ weatcherData.wea }}</span>
         </div>
