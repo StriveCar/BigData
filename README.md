@@ -9,4 +9,4 @@
 
 ## 大屏截图
 
-![](../public/bigdata.png)
+![](https://github.com/StriveCar/BigData/blob/master/public/bigdata.png)
